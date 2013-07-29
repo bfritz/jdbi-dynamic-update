@@ -1,4 +1,4 @@
-package com.mlh
+package com.bfritz.example
 
 package object jdbidynamicupdate {
 

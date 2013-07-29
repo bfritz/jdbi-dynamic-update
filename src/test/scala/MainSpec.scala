@@ -1,4 +1,4 @@
-package com.mlh.jdbidynamicupdate
+package com.bfritz.example
 import org.scalatest._
 import org.scalatest.matchers._
 

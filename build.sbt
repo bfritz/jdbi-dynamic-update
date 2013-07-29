@@ -1,18 +1,18 @@
 name := "jdbi-dynamic-update"
 
-organization := "com.mlh"
+organization := "com.bfritz.example"
 
 version := "0.1.0-SNAPSHOT"
 
-homepage := Some(url("https://github.com/mhamrah/jdbi-dynamic-update"))
+homepage := Some(url("https://github.com/bfritz/jdbi-dynamic-update"))
 
 startYear := Some(2013)
 
 scmInfo := Some(
   ScmInfo(
-    url("https://github.com/mhamrah/jdbi-dynamic-update"),
-    "scm:git:https://github.com/mhamrah/jdbi-dynamic-update.git",
-    Some("scm:git:git@github.com:mhamrah/jdbi-dynamic-update.git")
+    url("https://github.com/bfritz/jdbi-dynamic-update"),
+    "scm:git:https://github.com/bfritz/jdbi-dynamic-update.git",
+    Some("scm:git:git@github.com:bfritz/jdbi-dynamic-update.git")
   )
 )
 

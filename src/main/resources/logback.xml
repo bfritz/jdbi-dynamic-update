@@ -7,7 +7,7 @@
       </encoder>
   </appender>
 
-  <logger name="com.mlh.jdbidynamicupdate" level="debug" additivity="false">
+  <logger name="com.bfritz.example" level="debug" additivity="false">
     <appender-ref ref="console" />
   </logger>
 
